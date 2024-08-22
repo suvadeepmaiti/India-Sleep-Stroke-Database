@@ -49,13 +49,19 @@ This repository has been made to help searcher to have a quick start on analysin
 ### 1. Clone the Repository
 First, clone this repository to your local machine:
 
+```bash
 # Clone the repository
 git clone https://github.com/suvadeepmaiti/iSLEEPS
 
 # Navigate into the repository directory
 cd iSLEEPS
-
-### 1. Clone the Repository
+```
+### 2. Install Dependencies
+```bash
+# Install dependencies
+pip install -r requirements.txt
+```
+### 3. Preprocess the Data
 
 
 
