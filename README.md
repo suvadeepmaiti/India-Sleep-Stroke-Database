@@ -69,7 +69,7 @@ raw_file_path = '/scratch/sleep/nimhans_raw_data/' #redefine this
 ```
 Define the path to the output directory where preprocessed data will be saved
 ```
-output_data_path = '/scratch/sleep/nimhans_preprocessed_all/'
+output_data_path = '/scratch/sleep/nimhans_preprocessed_all/' #redefine this 
 ```
 
 ### 4. Preprocess the Data
