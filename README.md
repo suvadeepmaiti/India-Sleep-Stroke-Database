@@ -44,5 +44,18 @@ This repository has been made to help searcher to have a quick start on analysin
 
 ```
 
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+First, clone this repository to your local machine:
+
+# Clone the repository
+git clone https://github.com/suvadeepmaiti/iSLEEPS
+
+# Navigate into the repository directory
+cd iSLEEPS
+
+### 1. Clone the Repository
+
 
 
