@@ -32,3 +32,28 @@ This dataset contains data from externalized DBS patients undergoing simultaneou
 └── src
 
 '''
+
+```
+
+
+├── README.md
+├── guidlines.md
+├── Code
+│   ├── K_means.ipynb
+│   ├── image_dilation_and_erosion.ipynb
+│   ├── reference_image.ipynb
+│   ├── testing.ipynb
+│   |──Road_Cluster_Identification_and__Filtering.ipynb
+├── documents
+│   |── proposal.pdf
+│   ├── final-eval.pdf
+├── images
+├── demo.ipynb
+|── main.py
+└── src
+    ├── __init__.py
+    ├── Kmeans-clustering.py
+    ├── road-cluster-identification.py
+    └── road-cluster-filtering.py
+    └── result-evaluation.py
+
