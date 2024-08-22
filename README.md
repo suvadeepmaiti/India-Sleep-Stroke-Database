@@ -1,3 +1,8 @@
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/suvadeepmaiti/iSLEEPS)
+![GitHub issues](https://img.shields.io/github/issues/suvadeepmaiti/iSLEEPS)
+
 # iSLEEPS preprocessing
 
 This repository has been made to help searcher to have a quick start on analysing the iSLEEPS dataset available here in iHUB-data:
