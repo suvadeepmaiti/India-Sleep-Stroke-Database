@@ -35,8 +35,8 @@ This repository has been made to help searcher to have a quick start on analysin
 │   |── numpy_subjects.py
 │   |── staging_preprocess.py
 ├── Technical validations
-│   |── proposal.pdf
-│   ├── final-eval.pdf
+│   |── 
+│   ├── 
 ├── images
 ├── demo.ipynb
 |── 
