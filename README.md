@@ -61,7 +61,22 @@ cd iSLEEPS
 # Install dependencies
 pip install -r requirements.txt
 ```
-### 3. Preprocess the Data
+### 3. Usage
+
+Define the path where you downloaded the dataset in the **config.py** file.
+```
+raw_file_path = '/scratch/sleep/nimhans_raw_data/' #redefine this 
+```
+Define the path to the output directory where preprocessed data will be saved
+```
+output_data_path = '/scratch/sleep/nimhans_preprocessed_all/'
+```
+
+### 4. Preprocess the Data
+```
+python main.py # Preprocess the data
+```
+
 
 
 
