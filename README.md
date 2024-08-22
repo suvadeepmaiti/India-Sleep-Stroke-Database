@@ -39,7 +39,7 @@ This repository has been made to help searcher to have a quick start on analysin
 │   ├── final-eval.pdf
 ├── images
 ├── demo.ipynb
-|── main.py
+|── 
 └── src
 
 ```
