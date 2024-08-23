@@ -87,7 +87,7 @@ Here are some of the figures used in this project:
 ### Figure 2: AHI Distribution
 ![Figure 2](./images/Ch5_ahi_distribution_by_apnea_severity.png)
 
-### Figure 3: Sleep Stages Distribution
+### Figure 3: Subject-wise Sleep Stages Distribution
 ![Figure 2](./images/Ch5_sleepStageDistribution.png)
 
 
