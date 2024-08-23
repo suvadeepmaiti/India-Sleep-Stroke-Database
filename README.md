@@ -76,6 +76,16 @@ output_data_path = '/scratch/sleep/nimhans_preprocessed_all/' #redefine this
 ```
 python main.py # Preprocess the data
 ```
+## 🖼️ Figures
+## Figures 📊
+
+Here are some of the figures used in this project:
+
+### Figure 1: Example Figure
+![Figure 1](./images/Ch5_Age_distribution.png)
+
+### Figure 2: Another Example
+![Figure 2](./images/Ch5_ahi_distribution_by_apnea_severity.png)
 
 
 
