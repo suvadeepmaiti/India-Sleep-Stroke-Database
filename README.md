@@ -81,11 +81,14 @@ python main.py # Preprocess the data
 
 Here are some of the figures used in this project:
 
-### Figure 1: Example Figure
+### Figure 1: Age Distribution
 ![Figure 1](./images/Ch5_Age_distribution.png)
 
-### Figure 2: Another Example
+### Figure 2: AHI Distribution
 ![Figure 2](./images/Ch5_ahi_distribution_by_apnea_severity.png)
+
+### Figure 3: Sleep Stages Distribution
+![Figure 2](./images/Ch5_sleepStageDistribution.png)
 
 
 
