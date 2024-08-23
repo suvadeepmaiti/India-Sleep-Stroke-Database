@@ -34,12 +34,11 @@ This repository has been made to help searcher to have a quick start on analysin
 │   ├── main.py
 │   |── numpy_subjects.py
 │   |── staging_preprocess.py
-├── Technical validations
+├── exploratory_data_analysis
 │   |── 
 │   ├── 
 ├── images
-├── demo.ipynb
-|── 
+├── 
 └── src
 
 ```
