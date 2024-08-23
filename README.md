@@ -90,6 +90,9 @@ Here are some of the figures used in this project:
 ### Figure 3: Subject-wise Sleep Stages Distribution
 ![Figure 2](./images/Ch5_sleepStageDistribution.png)
 
+### Figure 3: Annotated vs Predicted Hypnogram
+![Figure 2](./images/hypnograms.png)
+
 
 
 
