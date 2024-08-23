@@ -76,7 +76,6 @@ output_data_path = '/scratch/sleep/nimhans_preprocessed_all/' #redefine this
 python main.py # Preprocess the data
 ```
 ## 🖼️ Figures
-## Figures 📊
 
 Here are some of the figures used in this project:
 
